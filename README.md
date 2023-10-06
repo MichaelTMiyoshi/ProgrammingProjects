@@ -4,11 +4,13 @@ You might have noticed that the programming projects links from the landing webs
 
 | Project | Description | Intro | APCS | Game & App | Semester |
 | ------- | ----------- | :---: | :---: |  :---:  |   :---:  |
+| Rock, Paper, Scissors | Play the game against the computer | X | X | X | 1 |
+| Maze | Create a text maze (graphic or not) of at least 25 rooms | X | X | X | 1 |
+| Choose Your Own Adventure (extensive) | X | X | X | 1 |
 | RPG | Create a Role Playing Game (RPG) | X | X | X | 1 |
+| Typing speed tester | Test how many words per minute somebody can type | X | X | X | 1 |
 | Snake | Eat the characters while growing longer | X |  | X | 1 |
 | Pong | See if you can recreate the old Pong game | X |  | X | 1 |
-| Typing speed tester | Test how many words per minute somebody can type | X | X | X | 1 |
-| Rock, Paper, Scissors | Play the game against the computer | X | X | X | 1 |
 | Packman | Play the old arcade game | X |  | X | 1 |
 | Etchasketch | Draw on the screen like an Etchasketch would | X |  | X | 1 |
 | Wordle | Come up with a list of words to guess in the game | X | X | X | 2 |
