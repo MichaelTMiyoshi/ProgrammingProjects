@@ -22,7 +22,7 @@ You might have noticed that the programming projects links from the landing webs
 | Notes application | Create, save, edit text documents | X | X | X | 2 |
 | Mastermind | Implement the classic game of breaking the code | X | X | X | 2 |
 | Mastermind player | Optimize the guesses to break the code the quickest |  | X | X | 2 |
-| Levenshtein | Find paths between words - More description here |  | R | X | 2 |
+| Levenshtein | Find paths between words - More description [here](https://github.com/MichaelTMiyoshi/JavaWithMiyoshi/blob/master/Problems/GoalSheet14.md) |  | R | X | 2 |
 | Levenshtein shortest paths | Find all shortest paths between words |  | 2X | X | 2 |
 | Maze generation | Create mazes that have only one way out | X | X | X | 2 |
 | Maze Solving / Path Finding | Solve mazes with programming algorithms |  | X | X | 2 |
