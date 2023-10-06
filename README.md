@@ -20,7 +20,7 @@ You might have noticed that the programming projects links from the landing webs
 | Pokemon | Another card game to play against the computer | X | X | X | 2 |
 | Mancala | This might be a tough one to implement with text | X | X | X | 2 |
 | Notes application | Create, save, edit text documents | X | X | X | 2 |
-| Mastermind | Implement the classic game of breaking the code | X | X | X | 2 |
+| Mastermind | Implement the classic game of breaking the code - More description [here](https://github.com/MichaelTMiyoshi/JavaWithMiyoshi/blob/master/Problems/GoalSheet05.md) - Testing code (Java) [here](https://github.com/MichaelTMiyoshi/JavaWithMiyoshi/blob/master/Problems/MastermindTester.java) | X | X | X | 2 |
 | Mastermind player | Optimize the guesses to break the code the quickest |  | X | X | 2 |
 | Levenshtein | Find paths between words - More description [here](https://github.com/MichaelTMiyoshi/JavaWithMiyoshi/blob/master/Problems/GoalSheet14.md) |  | R | X | 2 |
 | Levenshtein shortest paths | Find all shortest paths between words |  | 2X | X | 2 |
