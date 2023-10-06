@@ -19,6 +19,7 @@ You might have noticed that the programming projects links from the landing webs
 | Minesweeper | Create your own implementation of the classic computer game | X |  | X | 2 |
 | Pokemon | Another card game to play against the computer | X | X | X | 2 |
 | Mancala | This might be a tough one to implement with text | X | X | X | 2 |
+| Conway's Game of Life | Implement the classic computer simulation - Wikipedia article [here](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) | X | X | X | 2 |
 | Notes application | Create, save, edit text documents | X | X | X | 2 |
 | Mastermind | Implement the classic game of breaking the code - More description [here](https://github.com/MichaelTMiyoshi/JavaWithMiyoshi/blob/master/Problems/GoalSheet05.md) - Testing code (Java) [here](https://github.com/MichaelTMiyoshi/JavaWithMiyoshi/blob/master/Problems/MastermindTester.java) | X | X | X | 2 |
 | Mastermind player | Optimize the guesses to break the code the quickest |  | X | X | 2 |
