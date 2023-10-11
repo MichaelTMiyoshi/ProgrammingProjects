@@ -5,6 +5,7 @@ You might have noticed that the programming projects links from the landing webs
 | Project | Description | Intro | APCS | Game & App | Semester |
 | ------- | ----------- | :---: | :---: |  :---:  |   :---:  |
 | Rock, Paper, Scissors | Play the game against the computer | X | X | X | 1 |
+| Hangman | Implement the Hangman game | X | Must read from a file | X | 1 |
 | Maze | Create a text maze (graphic or not) of at least 25 rooms | X | X | X | 1 |
 | Adventure | Choose Your Own Adventure (extensive) | X | X | X | 1 |
 | RPG | Create a Role Playing Game (RPG) | X | X | X | 1 |
