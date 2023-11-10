@@ -34,6 +34,8 @@ All of the projects require using variables and/or constants, Input/Output (I/O)
 | War Game simulation (i.e. Axis and Allies) | Implement a tabletop war game | files, lists | X | X | X | 2 |
 | Sudoku solver | Solve a given a sudoku puzzzle | listss, files, (recursion) | X | X | X | 2 |
 | Other card games | Implement or create a card game | classes, lists | X | X | X | 2 |
+| Williams Game Engine | Complete the Williams Game Engine Tutorial [see this repo](https://github.com/MichaelTMiyoshi/WilliamsGameEngine.CSharp) | all skills | R |  |  |  |
+| Graphical Game | Create your own game using Williams Game Engine or Unity | all skills | R |  |  |  |
 
 Legend:
 
