@@ -2,36 +2,38 @@
 
 You might have noticed that the programming projects links from the landing website all take you to this same spot.  This is because the introductory students and the AP Computer Science (APCS) students have choices on their projects and can choose to do many of the same projects.  This does not mean that APCS students should just redo their introductory projects using java.  I would suggest not doing that.  What it means is that students have a wide array of options to choose from.  And if there is something you would like to do that is not on the list of projects, talk to me about it.  I may or may not allow it, and it may or may not make the list for current and/or future students.
 
-| Project | Description | Intro | APCS | Game & App | Semester |
-| ------- | ----------- | :---: | :---: |  :---:  |   :---:  |
-| Rock, Paper, Scissors | Play the game against the computer | X | X | X | 1 |
-| Hangman | Implement the Hangman game | X | Must read from a file | X | 1 |
-| Maze | Create a text maze (graphic or not) of at least 25 rooms | X | X | X | 1 |
-| Adventure | Choose Your Own Adventure (extensive) | X | X | X | 1 |
-| RPG | Create a Role Playing Game (RPG) | X | X | X | 1 |
-| Typing speed tester | Test how many words per minute somebody can type | X | X | X | 1 |
-| Snake | Eat the characters while growing longer | X |  | X | 1 |
-| Pong | See if you can recreate the old Pong game | X |  | X | 1 |
-| Packman | Play the old arcade game | X |  | X | 1 |
-| Etchasketch | Draw on the screen like an Etchasketch would | X |  | X | 1 |
-| Wordle | Come up with a list of words to guess in the game | X | X | X | 2 |
-| War (cards) | Play the card game War | X | X | X | 2 |
-| Solitaire | There are many solitaire card games that you can implement | X |  | X | 2 |
-| Minesweeper | Create your own implementation of the classic computer game | X |  | X | 2 |
-| Pokemon | Another card game to play against the computer | X | X | X | 2 |
-| Mancala | This might be a tough one to implement with text | X | X | X | 2 |
-| Conway's Game of Life | Implement the classic computer simulation - Wikipedia article [here](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) | X | X | X | 2 |
-| Notes application | Create, save, edit text documents | X | X | X | 2 |
-| Mastermind | Implement the classic game of breaking the code - More description [here](https://github.com/MichaelTMiyoshi/JavaWithMiyoshi/blob/master/Problems/GoalSheet05.md) - Testing code (Java) [here](https://github.com/MichaelTMiyoshi/JavaWithMiyoshi/blob/master/Problems/MastermindTester.java) | X | X | X | 2 |
-| Mastermind player | Optimize the guesses to break the code the quickest |  | X | X | 2 |
-| Levenshtein | Find paths between words - More description [here](https://github.com/MichaelTMiyoshi/JavaWithMiyoshi/blob/master/Problems/GoalSheet14.md) |  | R | X | 2 |
-| Levenshtein shortest paths | Find all shortest paths between words |  | 2X | X | 2 |
-| Maze generation | Create mazes that have only one way out | X | X | X | 2 |
-| Maze Solving / Path Finding | Solve mazes with programming algorithms |  | X | X | 2 |
-| Path Following | Follow a path |  | X | X | 2 |
-| War Game simulation (i.e. Axis and Allies) | Implement a tabletop war game | X | X | X | 2 |
-| Sudoku solver | Solve a given a sudoku puzzzle | X | X | X | 2 |
-| Other card games | Implement or create a card game | X | X | X | 2 |
+All of the projects require using variables and/or constants, Input/Output (I/O), branching, and looping.  A column of skills gives you an idea of other skills that are probably needed to do the project.  (If looping is listed, then the previously mentioned skills should suffice to do the program.)  Skills listed in parentheses are probably needed although you might be able to get by without them.  And just because a skill (like using functions) is not listed, does not mean that you cannot use that skill or technique.
+
+| Project | Description | Skills | Intro | APCS | Game & App | Semester |
+| ------- | ----------- | :----: | :---: | :--: | :--------: | :------: |
+| Rock, Paper, Scissors | Play the game against the computer | looping | X | X | X | 1 |
+| Hangman | Implement the Hangman game | (arrays/lists) | X | Must read from a file | X | 1 |
+| Maze | Create a text maze (graphic or not) of at least 25 rooms | looping (classes) | X | X | X | 1 |
+| Adventure | Choose Your Own Adventure (extensive) | looping | X | X | X | 1 |
+| RPG | Create a Role Playing Game (RPG) | looping (classes) | X | X | X | 1 |
+| Typing speed tester | Test how many words per minute somebody can type | strings | X | X | X | 1 |
+| Snake | Eat the characters while growing longer | classes, arrays/lists | X |  | X | 1 |
+| Pong | See if you can recreate the old Pong game (against the computer) | looping | X |  | X | 1 |
+| Packman | Play the old arcade game | strings, arrays/lists | X |  | X | 1 |
+| Etchasketch | Draw on the screen like an Etchasketch would | arrays/lists | X |  | X | 1 |
+| Wordle | Come up with a list of words to guess in the game | functions | X | X | X | 2 |
+| War (cards) | Play the card game War | classes, lists | X | X | X | 2 |
+| Solitaire | There are many solitaire card games that you can implement | classes, lists | X |  | X | 2 |
+| Minesweeper | Create your own implementation of the classic computer game | classes, lists | X |  | X | 2 |
+| Pokemon | Another card game to play against the computer | classes, lists, files | X | X | X | 2 |
+| Mancala | This might be a tough one to implement with text | classes, lists | X | X | X | 2 |
+| Conway's Game of Life | Implement the classic computer simulation - Wikipedia article [here](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) | arrays/lists | X | X | X | 2 |
+| Notes application | Create, save, edit text documents | files | X | X | X | 2 |
+| Mastermind | Implement the classic game of breaking the code - More description [here](https://github.com/MichaelTMiyoshi/JavaWithMiyoshi/blob/master/Problems/GoalSheet05.md) - Testing code (Java) [here](https://github.com/MichaelTMiyoshi/JavaWithMiyoshi/blob/master/Problems/MastermindTester.java) | lists, files | X | X | X | 2 |
+| Mastermind player | Optimize the guesses to break the code the quickest | lists, files |  | X | X | 2 |
+| Levenshtein | Find paths between words - More description [here](https://github.com/MichaelTMiyoshi/JavaWithMiyoshi/blob/master/Problems/GoalSheet14.md) | lists, files, recursion |  | R | X | 2 |
+| Levenshtein shortest paths | Find all shortest paths between words | lists, files, recursion |  | 2X | X | 2 |
+| Maze generation | Create mazes that have only one way out | lists, files | X | X | X | 2 |
+| Maze Solving / Path Finding | Solve mazes with programming algorithms | lists, files, recursion |  | X | X | 2 |
+| Path Following | Follow a path | recursion |  | X | X | 2 |
+| War Game simulation (i.e. Axis and Allies) | Implement a tabletop war game | files, lists | X | X | X | 2 |
+| Sudoku solver | Solve a given a sudoku puzzzle | listss, files, (recursion) | X | X | X | 2 |
+| Other card games | Implement or create a card game | classes, lists | X | X | X | 2 |
 
 Legend:
 
