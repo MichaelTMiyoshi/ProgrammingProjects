@@ -1,8 +1,14 @@
-# ProgrammingProjects
+# Programming Projects
 
 You might have noticed that the programming projects links from the landing website all take you to this same spot.  This is because the introductory students and the AP Computer Science (APCS) students have choices on their projects and can choose to do many of the same projects.  This does not mean that APCS students should just redo their introductory projects using java.  I would suggest not doing that.  What it means is that students have a wide array of options to choose from.  And if there is something you would like to do that is not on the list of projects, talk to me about it.  I may or may not allow it, and it may or may not make the list for current and/or future students.
 
 All of the projects require using variables and/or constants, Input/Output (I/O), branching, and looping.  A column of skills gives you an idea of other skills that are probably needed to do the project.  (If looping is listed, then the previously mentioned skills should suffice to do the program.)  Skills listed in parentheses are probably needed although you might be able to get by without them.  And just because a skill (like using functions) is not listed, does not mean that you cannot use that skill or technique.
+
+### The Rubric
+
+[See the rubric](https://github.com/MichaelTMiyoshi/ProgrammingProjects/blob/main/Rubric-ProgrammingProjects.md)
+
+### The Possible and Required Projects List
 
 | Project | Description | Skills | Intro | APCS | Game & App | Semester |
 | ------- | ----------- | :----: | :---: | :--: | :--------: | :------: |
