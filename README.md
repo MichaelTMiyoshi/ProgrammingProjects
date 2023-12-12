@@ -24,6 +24,7 @@ All of the projects require using variables and/or constants, Input/Output (I/O)
 | Pong | See if you can recreate the old Pong game (against the computer) | looping | X |  | X | 1 |
 | Packman | Play the old arcade game | strings, arrays/lists | X |  | X | 1 |
 | Etchasketch | Draw on the screen like an Etchasketch would | arrays/lists | X |  | X | 1 |
+| Goal Sheet Assignments 3 | Complete 7 assignment programs from Goal Sheets [10](https://github.com/MichaelTMiyoshi/CSharpWithMiyoshi/blob/main/Problems/GoalSheet06.md), [11](https://github.com/MichaelTMiyoshi/CSharpWithMiyoshi/blob/main/Problems/GoalSheet07.md) (minimum of 3 per goal sheet) | enum, classes | X |   |   | 1 |
 | Wordle | Come up with a list of words to guess in the game | functions | X | X | X | 2 |
 | War (cards) | Play the card game War | classes, lists | X | X | X | 2 |
 | Solitaire | There are many solitaire card games that you can implement | classes, lists | X |  | X | 2 |
