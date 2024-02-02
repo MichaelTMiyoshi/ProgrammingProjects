@@ -14,7 +14,8 @@ All of the projects require using variables and/or constants, Input/Output (I/O)
 | ------- | ----------- | :----: | :---: | :--: | :--------: | :------: |
 | Goal Sheet Assignments 1 | Complete 9 assignment programs from Goal Sheets [2](https://github.com/MichaelTMiyoshi/CSharpWithMiyoshi/blob/main/Problems/GoalSheet02.md), [3](https://github.com/MichaelTMiyoshi/CSharpWithMiyoshi/blob/main/Problems/GoalSheet03.md), [4](https://github.com/MichaelTMiyoshi/CSharpWithMiyoshi/blob/main/Problems/GoalSheet04.md) (minimum of 2 per goal sheet) | I/O, variables, math, branching, looping | X |   |   | 1 |
 | Goal Sheet Assignments 2 | Complete 8 assignment programs from Goal Sheets [6](https://github.com/MichaelTMiyoshi/CSharpWithMiyoshi/blob/main/Problems/GoalSheet06.md), [7](https://github.com/MichaelTMiyoshi/CSharpWithMiyoshi/blob/main/Problems/GoalSheet07.md) (minimum of 3 per goal sheet) | enum, classes | X |   |   | 1 |
-| Rock, Paper, Scissors | Play the game against the computer | looping | X | X | X | 1 |
+| Etchasketch | Draw on the screen like an Etchasketch would | I/O, branching, looping | X |  | X | 1 |
+| Rock, Paper, Scissors | Play the game against the computer | I/O, branching, looping | X | X | X | 1 |
 | Hangman | Implement the Hangman game | (arrays/lists) | X | Must read from a file | X | 1 |
 | Maze | Create a text maze (graphic or not) of at least 25 rooms | looping (classes) | X | X | X | 1 |
 | Adventure | Choose Your Own Adventure (extensive) | looping | X | X | X | 1 |
@@ -23,7 +24,6 @@ All of the projects require using variables and/or constants, Input/Output (I/O)
 | Snake | Eat the characters while growing longer | classes, arrays/lists | X |  | X | 1 |
 | Pong | See if you can recreate the old Pong game (against the computer) | looping | X |  | X | 1 |
 | Packman | Play the old arcade game | strings, arrays/lists | X |  | X | 1 |
-| Etchasketch | Draw on the screen like an Etchasketch would | arrays/lists | X |  | X | 1 |
 | Goal Sheet Assignments 3 | Complete 8 assignment programs from Goal Sheets [10](https://github.com/MichaelTMiyoshi/CSharpWithMiyoshi/blob/main/Problems/GoalSheet10.md), [11](https://github.com/MichaelTMiyoshi/CSharpWithMiyoshi/blob/main/Problems/GoalSheet11.md) (minimum of 3 per goal sheet) | lists, files | X |   |   | 1 |
 | Wordle | Come up with a list of words to guess in the game | functions | X | X | X | 2 |
 | War (cards) | Play the card game War | classes, lists | X | X | X | 2 |
@@ -33,7 +33,7 @@ All of the projects require using variables and/or constants, Input/Output (I/O)
 | Mancala | This might be a tough one to implement with text | classes, lists | X | X | X | 2 |
 | Conway's Game of Life | Implement the classic computer simulation - Wikipedia article [here](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) | arrays/lists | X | X | X | 2 |
 | Notes application | Create, save, edit text documents | files | X | X | X | 2 |
-| Mastermind | Implement the classic game of breaking the code - More description [here](https://github.com/MichaelTMiyoshi/JavaWithMiyoshi/blob/master/Problems/GoalSheet05.md) - Testing code (Java) [here](https://github.com/MichaelTMiyoshi/JavaWithMiyoshi/blob/master/Problems/MastermindTester.java) | lists, files | X | X | X | 2 |
+| Mastermind (must have scoring function that achieves 100% success) | Implement the classic game of breaking the code - More description [here](https://github.com/MichaelTMiyoshi/JavaWithMiyoshi/blob/master/Problems/GoalSheet05.md) - Testing code (Java) [here](https://github.com/MichaelTMiyoshi/JavaWithMiyoshi/blob/master/Problems/MastermindTester.java) | lists, files | X | X | X | 2 |
 | Mastermind player | Optimize the guesses to break the code the quickest | lists, files |  | X | X | 2 |
 | Levenshtein | Find paths between words - More description [here](https://github.com/MichaelTMiyoshi/JavaWithMiyoshi/blob/master/Problems/GoalSheet14.md) | lists, files, recursion |  | R | X | 2 |
 | Levenshtein shortest paths | Find all shortest paths between words | lists, files, recursion |  | 2X | X | 2 |
