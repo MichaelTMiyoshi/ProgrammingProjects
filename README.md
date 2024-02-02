@@ -8,7 +8,9 @@ All of the projects require using variables and/or constants, Input/Output (I/O)
 
 [See the rubric](https://github.com/MichaelTMiyoshi/ProgrammingProjects/blob/main/Rubric-ProgrammingProjects.md)
 
-The [Excel file rubric](https://github.com/MichaelTMiyoshi/ProgrammingProjects/blob/main/Rubric-ProgrammingProject.xlsx) can be downloaded and used as a self-evaluation tool.  It is more detailed than the rubric page.  You may download it and use it as a self-check and self-evaluation of your project.  Fill it out, print it, staple it to the front of your printed code, and turn it in.  It probably needs a bit of modification for projects that are not for introductory or AP CS.  The Game and App Development class uses a different evaluation tool anyway.  (It and some example write-ups can be [found here](https://github.com/MichaelTMiyoshi/LearningWithMiyoshi/tree/main/_CommonDocuments).)
+The [Excel file rubric](https://github.com/MichaelTMiyoshi/ProgrammingProjects/blob/main/Rubric-ProgrammingProject.xlsx) can be downloaded and used as a self-evaluation tool.  It is more detailed than the rubric page.  You may download it and use it as a self-check and self-evaluation of your project.  Fill it out, print it, staple it to the front of your printed code, and turn it in.
+
+The Game and App Development class uses a different evaluation tool.  (It and some example write-ups can be [found here](https://github.com/MichaelTMiyoshi/LearningWithMiyoshi/tree/main/_CommonDocuments).)
 
 ### The Possible and Required Projects List
 
@@ -43,7 +45,7 @@ The [Excel file rubric](https://github.com/MichaelTMiyoshi/ProgrammingProjects/b
 | Maze Solving / Path Finding | Solve mazes with programming algorithms | lists, files, recursion |  | X | X | 2 |
 | Path Following | Follow a path | recursion |  | X | X | 2 |
 | War Game simulation (i.e. Axis and Allies) | Implement a tabletop war game | files, lists | X | X | X | 2 |
-| Sudoku solver | Solve a given a sudoku puzzzle | listss, files, (recursion) | X | X | X | 2 |
+| Sudoku solver | Solve a given a sudoku puzzzle | lists, files, (recursion) | X | X | X | 2 |
 | Other card games | Implement or create a card game | classes, lists | X | X | X | 2 |
 | Williams Game Engine | Complete the Williams Game Engine Tutorial [see this repo](https://github.com/MichaelTMiyoshi/WilliamsGameEngine.CSharp) | all skills | R |  |  | 2 |
 | Graphical Game | Create your own game using Williams Game Engine or Unity | all skills | R |  |  | 2 |
