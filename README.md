@@ -8,6 +8,8 @@ All of the projects require using variables and/or constants, Input/Output (I/O)
 
 [See the rubric](https://github.com/MichaelTMiyoshi/ProgrammingProjects/blob/main/Rubric-ProgrammingProjects.md)
 
+The [Excel file rubric](https://github.com/MichaelTMiyoshi/ProgrammingProjects/blob/main/Rubric-ProgrammingProject.xlsx) can be downloaded and used as a self-evaluation tool.  It is more detailed than the rubric page.  You may download it and use it as a self-check and self-evaluation of your project.  Fill it out, print it, staple it to the front of your printed code, and turn it in.  It probably needs a bit of modification for projects that are not for introductory or AP CS.  The Game and App Development class uses a different evaluation tool anyway.  (It and some example write-ups can be [found here](https://github.com/MichaelTMiyoshi/LearningWithMiyoshi/tree/main/_CommonDocuments).)
+
 ### The Possible and Required Projects List
 
 | Project | Description | Skills | Intro | APCS | Game & App | Semester |
