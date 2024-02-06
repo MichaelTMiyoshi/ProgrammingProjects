@@ -29,7 +29,7 @@ The Game and App Development class uses a different evaluation tool.  (It and so
 | Pong | See if you can recreate the old Pong game (against the computer) | looping | X |  | X | 1 |
 | Packman | Play the old arcade game | strings, arrays/lists | X |  | X | 1 |
 | Goal Sheet Assignments 3 | Complete 8 assignment programs from Goal Sheets [10](https://github.com/MichaelTMiyoshi/CSharpWithMiyoshi/blob/main/Problems/GoalSheet10.md), [11](https://github.com/MichaelTMiyoshi/CSharpWithMiyoshi/blob/main/Problems/GoalSheet11.md) (minimum of 3 per goal sheet) | lists, files | X |   |   | 2 |
-| Recursion Goal Sheet plus 4 | Complete assignment programs from Goal Sheets [11](https://github.com/MichaelTMiyoshi/JavaWithMiyoshi/blob/master/Problems/GoalSheet11.md), problem GS10-02, problem GS10-04 (merge sort) [10](https://github.com/MichaelTMiyoshi/JavaWithMiyoshi/blob/master/Problems/GoalSheet10.md), plus one more problem from second semester goal sheets | recursion |   | R |   | 2 |
+| Recursion Goal Sheet plus 4 | Complete assignment programs from Goal Sheets [11](https://github.com/MichaelTMiyoshi/JavaWithMiyoshi/blob/master/Problems/GoalSheet11.md), problem GS10-02 (writeSquares), problem GS10-04 (merge sort) [10](https://github.com/MichaelTMiyoshi/JavaWithMiyoshi/blob/master/Problems/GoalSheet10.md), plus one more problem from second semester goal sheets | recursion |   | R |   | 2 |
 | Wordle | Come up with a list of words to guess in the game | functions | X | X | X | 2 |
 | War (cards) | Play the card game War | classes, lists | X | X | X | 2 |
 | Solitaire | There are many solitaire card games that you can implement | classes, lists | X |  | X | 2 |
