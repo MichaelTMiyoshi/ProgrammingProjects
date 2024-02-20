@@ -30,7 +30,6 @@ The Game and App Development class uses a different evaluation tool.  (It and so
 | Packman | Play the old arcade game | strings, arrays/lists | X |  | X | 1 |
 | Goal Sheet Assignments 3 | Complete 8 assignment programs from Goal Sheets [10](https://github.com/MichaelTMiyoshi/CSharpWithMiyoshi/blob/main/Problems/GoalSheet10.md), [11](https://github.com/MichaelTMiyoshi/CSharpWithMiyoshi/blob/main/Problems/GoalSheet11.md) (minimum of 3 per goal sheet) | lists, files | X |   |   | 2 |
 | Recursion Goal Sheet plus | Complete assignment programs from Goal Sheets [11](https://github.com/MichaelTMiyoshi/JavaWithMiyoshi/blob/master/Problems/GoalSheet11.md), problem GS10-02 (writeSquares), problem GS10-04 (merge sort) [10](https://github.com/MichaelTMiyoshi/JavaWithMiyoshi/blob/master/Problems/GoalSheet10.md), plus one more problem from second semester goal sheets | recursion |   | R |   | 2 |
-| Wordle | Come up with a list of words to guess in the game | functions | X | X | X | 2 |
 | War (cards) | Play the card game War | classes, lists | X | X | X | 2 |
 | Solitaire | There are many solitaire card games that you can implement | classes, lists | X |  | X | 2 |
 | Minesweeper | Create your own implementation of the classic computer game | classes, lists | X |  | X | 2 |
@@ -38,6 +37,7 @@ The Game and App Development class uses a different evaluation tool.  (It and so
 | Mancala | This might be a tough one to implement with text | classes, lists | X | X | X | 2 |
 | Conway's Game of Life | Implement the classic computer simulation - Wikipedia article [here](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) | arrays/lists | X | X | X | 2 |
 | Periodic Table from [GS11](https://github.com/MichaelTMiyoshi/CSharpWithMiyoshi/blob/main/Problems/GoalSheet11.md).  Use the given data file of comma separated values. | Find elements in periodic table | files, lists | X |   | X | 2 |
+| Wordle | Implement the game.  Use the file with the [legal words](https://github.com/MichaelTMiyoshi/ProgrammingProjects/blob/main/valid-wordle-words.txt). | files, lists | X | X | X | 2 |
 | Notes application | Create, save, edit text documents | files | X | X | X | 2 |
 | Mastermind (must have scoring function that achieves 100% success) | Implement the classic game of breaking the code - More description [here](https://github.com/MichaelTMiyoshi/JavaWithMiyoshi/blob/master/Problems/GoalSheet05.md) - Testing code (Java) [here](https://github.com/MichaelTMiyoshi/JavaWithMiyoshi/blob/master/Problems/MastermindTester.java) | lists, files | X | X | X | 2 |
 | Mastermind player | Optimize the guesses to break the code the quickest (see if you can implement Knuth's algorithm) | lists, files | X| X | X | 2 |
