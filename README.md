@@ -4,6 +4,8 @@ You might have noticed that the programming projects links from the landing webs
 
 All of the projects require using variables and/or constants, Input/Output (I/O), branching, and looping.  A column of skills gives you an idea of other skills that are probably needed to do the project.  (If looping is listed, then the previously mentioned skills should suffice to do the program.)  Skills listed in parentheses are probably needed although you might be able to get by without them.  And just because a skill (like using functions) is not listed, does not mean that you cannot use that skill or technique.
 
+[Note: After the 2023-2024 school year, projects that are too similar may not be counted as separate projects.  For instance, the mastermind game and mastermind solver, maze creator and maze follower, path creator and path follower, and the two Levenshtein problems cannot be done as pairs and count separately.  These pairs of programs may be done together, but will not count separately.  There may be other programs than those listed that fit this category, so check to see.]
+
 ### The Rubric
 
 [See the rubric](https://github.com/MichaelTMiyoshi/ProgrammingProjects/blob/main/Rubric-ProgrammingProjects.md)
