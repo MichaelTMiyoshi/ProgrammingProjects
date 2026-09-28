@@ -25,30 +25,30 @@ The Game and App Development class uses a different evaluation tool.  (It and so
 | Goal Sheet Assignments 1 | Complete 9 assignment programs from Goal Sheets [2](https://github.com/MichaelTMiyoshi/CSharpWithMiyoshi/blob/main/Problems/GoalSheet02.md), [3](https://github.com/MichaelTMiyoshi/CSharpWithMiyoshi/blob/main/Problems/GoalSheet03.md), [4](https://github.com/MichaelTMiyoshi/CSharpWithMiyoshi/blob/main/Problems/GoalSheet04.md) (minimum of 2 per goal sheet) | I/O, variables, math, branching, looping | X |   |   | 1 |
 | Goal Sheet Assignments 2 | Complete 8 assignment programs from Goal Sheets [6](https://github.com/MichaelTMiyoshi/CSharpWithMiyoshi/blob/main/Problems/GoalSheet06.md), [7](https://github.com/MichaelTMiyoshi/CSharpWithMiyoshi/blob/main/Problems/GoalSheet07.md) (minimum of 3 per goal sheet) | enum, classes | X |   |   | 1 |
 | Etchasketch | Draw on the screen like an Etchasketch would | I/O, branching, looping | X |  | X | 1 |
-| Rock, Paper, Scissors | Play the game against the computer | I/O, branching, looping | X | X | X | 1 |
-| Hangman | Implement the Hangman game | (arrays/lists) | X | Must read from a file | X | 1 |
+| Rock, Paper, Scissors | Play the game against the computer.  Make sure to keep score (wins, losses, and ties) and loop until the user decides not to loop anymore. | I/O, branching, looping | X | X | X | 1 |
+| Hangman | Implement the Hangman game.  Make sure to keep score (wins and losses) and loop until the user decides not to loop anymore.  Also, make sure to tell the user the correct answer each time he or she loses. | (arrays/lists) | X | Must read from a file | X | 1 |
 | Maze | Create a text maze (graphic or not) of at least 25 rooms | looping (classes) | X | X | X | 1 |
 | Adventure | Choose Your Own Adventure (extensive) | looping | X | X | X | 1 |
 | RPG | Create a Role Playing Game (RPG) | looping (classes) | X | X | X | 1 |
 | Typing speed tester | Test how many words per minute somebody can type | strings | X | X | X | 1 |
 | Snake | Eat the characters while growing longer | classes, arrays/lists | X |  | X | 1 |
-| Pong | See if you can recreate the old Pong game (against the computer) | looping | X |  | X | 1 |
+| Pong | See if you can recreate the old Pong game (against the computer).  Make sure to keep score (wins and losses) and loop until the user decides not to play anymore. | looping | X |  | X | 1 |
 | Packman | Play the old arcade game | strings, arrays/lists | X |  | X | 1 |
 | Goal Sheet Assignments 3 | Complete 8 assignment programs from Goal Sheets [10](https://github.com/MichaelTMiyoshi/CSharpWithMiyoshi/blob/main/Problems/GoalSheet10.md), [11](https://github.com/MichaelTMiyoshi/CSharpWithMiyoshi/blob/main/Problems/GoalSheet11.md) (minimum of 3 per goal sheet) | lists, files | X |   |   | 2 |
 | Recursion Goal Sheet plus | Complete assignment programs from Goal Sheets [11](https://github.com/MichaelTMiyoshi/JavaWithMiyoshi/blob/master/Problems/GoalSheet11.md), problem GS10-02 (writeSquares), problem GS10-04 (merge sort) [10](https://github.com/MichaelTMiyoshi/JavaWithMiyoshi/blob/master/Problems/GoalSheet10.md), problem GS14-02 (isReverse), problem GS14-03 (anagrams) [14](https://github.com/MichaelTMiyoshi/JavaWithMiyoshi/blob/master/Problems/GoalSheet14.md) | recursion |   | R |   | 2 |
-| War (cards) | Play the card game War | classes, lists | X | X | X | 2 |
+| War (cards) | Play the card game War.  Make sure to loop until one of the user or the computer does not have enough cards to continue. | classes, lists | X | X | X | 2 |
 | Solitaire | There are many solitaire card games that you can implement | classes, lists | X |  | X | 2 |
 | Minesweeper | Create your own implementation of the classic computer game | classes, lists | X |  | X | 2 |
 | Pokemon | Another card game to play against the computer | classes, lists, files | X | X | X | 2 |
 | Mancala | This might be a tough one to implement with text | classes, lists | X | X | X | 2 |
 | Conway's Game of Life | Implement the classic computer simulation - Wikipedia article [here](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) | arrays/lists | X | X | X | 2 |
 | Periodic Table from [GS11](https://github.com/MichaelTMiyoshi/CSharpWithMiyoshi/blob/main/Problems/GoalSheet11.md).  Use the given data file of comma separated values. | Find elements in periodic table | files, lists | X |   | X | 2 |
-| Wordle | Implement the game.  Use the file with the [legal words](https://github.com/MichaelTMiyoshi/ProgrammingProjects/blob/main/valid-wordle-words.txt).  (Note: If you do some investigation, you will note that not all the legal words are words that can be the target.  See if you can implement this notion of two lists of words into your program.) | files, lists | X | X | X | 2 |
+| Wordle | Implement the game.  Use the file with the [legal words](https://github.com/MichaelTMiyoshi/ProgrammingProjects/blob/main/valid-wordle-words.txt).  (Note: If you do some investigation, you will note that not all the legal words are words that can be the target.  See if you can implement this notion of two lists of words into your program.)  Make sure to keep score (wins and losses) and loop until the user decides not to loop anymore. | files, lists | X | X | X | 2 |
 | Notes application | Create, save, edit text documents | files | X | X | X | 2 |
 | Mastermind (must have scoring function that achieves 100% success) | Implement the classic game of breaking the code - More description [here](https://github.com/MichaelTMiyoshi/JavaWithMiyoshi/blob/master/Problems/GoalSheet05.md) - Testing code [Java](https://github.com/MichaelTMiyoshi/JavaWithMiyoshi/blob/master/Problems/MastermindTester.java) Testing Code [C#](https://github.com/MichaelTMiyoshi/MastermindTesterCS/tree/master) | lists, files | X | X | X | 2 |
-| Mastermind player | Optimize the guesses to break the code the quickest (see if you can implement Knuth's algorithm) | lists, files | X| X | X | 2 |
+| Mastermind player (can only do one of the two masterminds for credit) | Optimize the guesses to break the code the quickest (see if you can implement Knuth's algorithm) | lists, files | X | X | X | 2 |
 | Levenshtein | Find paths between words - More description [here](https://github.com/MichaelTMiyoshi/JavaWithMiyoshi/blob/master/Problems/GoalSheet14.md) | lists, files, recursion |  | R | X | 2 |
-| Levenshtein shortest paths | Find all shortest paths between words | lists, files, recursion |  | 2X | X | 2 |
+| Levenshtein shortest paths (can only do one of the two Levenshtein problems for credit) | Find all shortest paths between words | lists, files, recursion |  | 2X | X | 2 |
 | Maze generation | Create mazes that have only one way out | lists, files | X | X | X | 2 |
 | Maze Solving / Path Finding | Solve mazes with programming algorithms | lists, files, recursion |  | X | X | 2 |
 | Path Following | Follow a path | recursion |  | X | X | 2 |
